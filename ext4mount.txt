@@ -1,0 +1,6 @@
+GET-CimInstance -query "SELECT * from Win32_DiskDrive"
+
+Start-Process powershell -verb runas
+wsl --mount \\.\PHYSICALDRIVE1 --bare
+wsl --mount \\.\PHYSICALDRIVE1 --partition 2
+wsl --unmount \\.\PHYSICALDRIVE1
