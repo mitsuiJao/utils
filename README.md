@@ -1,4 +1,4 @@
-## useful ps1
+## utils
 
 お品書き
 - fetch.ps1
