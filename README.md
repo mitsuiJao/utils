@@ -19,3 +19,12 @@
     - 必要なコマンドはex4mount.txt
 - unmount.ps1
     - アンマウント
+
+
+- .vimrc
+    - みんな大好きvimの設定ファイル
+
+- monokai_extended_bat.vim
+    - .vimrcで使ってるカラースキーム
+    - batコマンドでデフォルトで使われてるやつ、お気に入り
+
