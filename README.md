@@ -28,3 +28,13 @@
     - .vimrcで使ってるカラースキーム
     - batコマンドでデフォルトで使われてるやつ、お気に入り
 
+- .zshrc
+    - zshの設定
+    - 普通はbash使うけど、気分で
+
+- .p10k.zsh
+    - zsh入れるならp10kも
+    - プロンプトがお気に入り
+        - {username}@{hostname} {pwd} command {status} {execution_time} {environment_info}
+
+
