@@ -19,8 +19,14 @@
     - 必要なコマンドはex4mount.txt
 - unmount.ps1
     - アンマウント
+- save_clipboard.ps1
+    - クリップボードの写真を保存、`win+shift+S`での保存がしやすい😁👌✨✨✨
+- save_clipboard.bat
+    - ↑のbatラッパー、ダブルクリックで実行可能🫵
 
 
+
+---
 - .vimrc
     - みんな大好きvimの設定ファイル
 
