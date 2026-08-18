@@ -42,5 +42,3 @@
     - zsh入れるならp10kも
     - プロンプトがお気に入り
         - `{username}@{hostname} {pwd} command {status} {execution_time} {environment_info}`
-
-
